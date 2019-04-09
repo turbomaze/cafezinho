@@ -1,0 +1,11 @@
+{
+  "name": "cafezinho",
+  "version": "1.0.0",
+  "description": "Baby mocha (haha get it) to test super basic packages.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Liu",
+  "license": "MIT"
+}
